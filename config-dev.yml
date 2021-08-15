@@ -1,2 +1,2 @@
 config:
-  into: master.branch,springcloud-config/config-dev.yml version:777
+  into: master.branch,springcloud-config/config-dev.yml version:9999
